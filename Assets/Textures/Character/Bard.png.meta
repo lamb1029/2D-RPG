@@ -1,0 +1,7503 @@
+fileFormatVersion: 2
+guid: 9339b979e77e4a44897795ce1732061d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7684590190879345945
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_0
+  - first:
+      213: 5335226422112012656
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_1
+  - first:
+      213: 149542515041077856
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_2
+  - first:
+      213: 4876041687112244401
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_3
+  - first:
+      213: 3925107504410797664
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_4
+  - first:
+      213: 2443735923832879571
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_5
+  - first:
+      213: 1401272011337076290
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_6
+  - first:
+      213: 2279616679914028575
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_7
+  - first:
+      213: 2791031621475952422
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_8
+  - first:
+      213: -5881804988672581323
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_9
+  - first:
+      213: -4517642539953796702
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_10
+  - first:
+      213: -2822752383342149470
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_11
+  - first:
+      213: -571177070818125566
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_12
+  - first:
+      213: 6340231015404633714
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_13
+  - first:
+      213: 564196543558670247
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_14
+  - first:
+      213: -6510589860440794093
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_15
+  - first:
+      213: -4864442173793373090
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_16
+  - first:
+      213: -7470346518418849287
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_17
+  - first:
+      213: 6857684238293806623
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_18
+  - first:
+      213: -9044215057226988728
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_19
+  - first:
+      213: -4956076447448608915
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_20
+  - first:
+      213: -8485545799570255328
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_21
+  - first:
+      213: 7469982304287927865
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_22
+  - first:
+      213: -5688952242513680064
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_23
+  - first:
+      213: 6907919755682418469
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_24
+  - first:
+      213: -415596878862498243
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_25
+  - first:
+      213: 9166622852014258996
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_26
+  - first:
+      213: -1867366589680167555
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_27
+  - first:
+      213: 7082576702050658244
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_28
+  - first:
+      213: 1310707043449643352
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_29
+  - first:
+      213: -7517636983242653584
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_30
+  - first:
+      213: 4226548323386302149
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_31
+  - first:
+      213: 3413760639201013320
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_32
+  - first:
+      213: -8049378511463426523
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_33
+  - first:
+      213: 2025596919807041353
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_34
+  - first:
+      213: -2955717195051382106
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_35
+  - first:
+      213: 1391092048974902833
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_36
+  - first:
+      213: -1700346188025733454
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_37
+  - first:
+      213: 8028877475176929908
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_38
+  - first:
+      213: -5981616405144798084
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_39
+  - first:
+      213: -2885301333973019868
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_40
+  - first:
+      213: -1639903125208314714
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_41
+  - first:
+      213: -3428083018482728419
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_42
+  - first:
+      213: -5902291686500812491
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_43
+  - first:
+      213: 6690465537120393361
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_44
+  - first:
+      213: 7228839816250135639
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_45
+  - first:
+      213: 7386919233413921567
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_46
+  - first:
+      213: 4601845500890466479
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_47
+  - first:
+      213: 7094060952321885206
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_48
+  - first:
+      213: 3696321405928458916
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_49
+  - first:
+      213: 2924672877849498865
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_50
+  - first:
+      213: -5210839470761591833
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_51
+  - first:
+      213: -7016762599676992184
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_52
+  - first:
+      213: 8029208643420999533
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_53
+  - first:
+      213: 532021867258841895
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_54
+  - first:
+      213: -6265201517208193003
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_55
+  - first:
+      213: 319159952259911683
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_56
+  - first:
+      213: -5051011595911612920
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_57
+  - first:
+      213: 5109607459000136339
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_58
+  - first:
+      213: -5996406063812850291
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_59
+  - first:
+      213: 1117165561181784177
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_60
+  - first:
+      213: 6810721567679294572
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_61
+  - first:
+      213: -7895435673050594609
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_62
+  - first:
+      213: 5625805972379814480
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_63
+  - first:
+      213: -1601609377826194689
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_64
+  - first:
+      213: 1907401534210196183
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_65
+  - first:
+      213: 1212265034165875156
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_66
+  - first:
+      213: -1881168249599873603
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_67
+  - first:
+      213: -8203077625312789794
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_68
+  - first:
+      213: -5628654699843301613
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_69
+  - first:
+      213: -3264245715288787200
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_70
+  - first:
+      213: 5712104128946907114
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_71
+  - first:
+      213: 8912684643364341074
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_72
+  - first:
+      213: 3175415186251710234
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_73
+  - first:
+      213: 6074846782027795844
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_74
+  - first:
+      213: 6359756814725701380
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_75
+  - first:
+      213: -372652796264944805
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_76
+  - first:
+      213: 3467202619343864048
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_77
+  - first:
+      213: 4106781876416390983
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_78
+  - first:
+      213: 8206066879114606783
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_79
+  - first:
+      213: -1410473930624325726
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_80
+  - first:
+      213: 1837156103394466949
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_81
+  - first:
+      213: -7027116162273992848
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_82
+  - first:
+      213: 1092961109134428613
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_83
+  - first:
+      213: -1074908864264087732
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_84
+  - first:
+      213: -3549589934218387599
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_85
+  - first:
+      213: -4152490736526871455
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_86
+  - first:
+      213: 9118372926647897334
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_87
+  - first:
+      213: -7822187400593388913
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_88
+  - first:
+      213: 5986339021542809373
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_89
+  - first:
+      213: -592787805757849405
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_90
+  - first:
+      213: 331475045318070086
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_91
+  - first:
+      213: 4351945462311973099
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_92
+  - first:
+      213: 6234657755088252388
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_93
+  - first:
+      213: 255289582372885359
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_94
+  - first:
+      213: -3697415716288226590
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_95
+  - first:
+      213: 4506326840298141735
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_96
+  - first:
+      213: -7496143853289510294
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_97
+  - first:
+      213: -6521888376549830878
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_98
+  - first:
+      213: 3462667169604904820
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_99
+  - first:
+      213: 2891080035979699703
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_100
+  - first:
+      213: -7544707344364917089
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_101
+  - first:
+      213: -8345139526366367784
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_102
+  - first:
+      213: -3970347580900675848
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_103
+  - first:
+      213: 2473914019676190913
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_104
+  - first:
+      213: 2871332549774051878
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_105
+  - first:
+      213: 3832923511396241333
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_106
+  - first:
+      213: 8169379029741414774
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_107
+  - first:
+      213: -8729003063636992464
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_108
+  - first:
+      213: 4100016761915552199
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_109
+  - first:
+      213: 4794600111127431149
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_110
+  - first:
+      213: 2279068624844187221
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_111
+  - first:
+      213: 3870303008407612679
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_112
+  - first:
+      213: 7701868732695105724
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_113
+  - first:
+      213: -7208672317728296415
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_114
+  - first:
+      213: -1852779725434533104
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_115
+  - first:
+      213: 3703569597587553788
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_116
+  - first:
+      213: -5797210514823373429
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_117
+  - first:
+      213: 9149310867416069429
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_118
+  - first:
+      213: -3827603630291546690
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_119
+  - first:
+      213: -6235012158388797900
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_120
+  - first:
+      213: 7069659193323709459
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_121
+  - first:
+      213: 1100262782307392664
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_122
+  - first:
+      213: -3227451143124571130
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_123
+  - first:
+      213: 4788460184296914599
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_124
+  - first:
+      213: -7056432245875098035
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_125
+  - first:
+      213: 7327075909692745735
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_126
+  - first:
+      213: -909836808320403471
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_127
+  - first:
+      213: -138196979324726822
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_128
+  - first:
+      213: 928484006669327473
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_129
+  - first:
+      213: -5481245676697509341
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_130
+  - first:
+      213: 5391209183990960179
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_131
+  - first:
+      213: -72008323061032578
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_132
+  - first:
+      213: 40681884024210159
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_133
+  - first:
+      213: 5953218835088268846
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_134
+  - first:
+      213: -3037026791271299413
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_135
+  - first:
+      213: 6337700985474943190
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_136
+  - first:
+      213: -7002159340822379161
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_137
+  - first:
+      213: -6144463754085831347
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_138
+  - first:
+      213: -4301339598741367100
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_139
+  - first:
+      213: -8282608427221306299
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_140
+  - first:
+      213: 3892468513478874462
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_141
+  - first:
+      213: -2501324728161387063
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_142
+  - first:
+      213: -1032463265450323223
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_143
+  - first:
+      213: -168782104288111761
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_144
+  - first:
+      213: -1580058497182345009
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_145
+  - first:
+      213: -9199219676483650482
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_146
+  - first:
+      213: 7705453809005919440
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_147
+  - first:
+      213: -6383755133758004428
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_148
+  - first:
+      213: 7021265993431187418
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_149
+  - first:
+      213: 127683805746947819
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_150
+  - first:
+      213: 8094274433998820396
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_151
+  - first:
+      213: -2485813467505750419
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_152
+  - first:
+      213: 321932779520270189
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_153
+  - first:
+      213: -4100621624710910541
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_154
+  - first:
+      213: -3265198481187172825
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_155
+  - first:
+      213: -1683876289389959601
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_156
+  - first:
+      213: -2963934259541216636
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_157
+  - first:
+      213: -1088855825920640168
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_158
+  - first:
+      213: -774808844274279028
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_159
+  - first:
+      213: 421587688122861721
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_160
+  - first:
+      213: 7196093700423975609
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_161
+  - first:
+      213: 6142633338581587072
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_162
+  - first:
+      213: 8000205054618756301
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_163
+  - first:
+      213: -2201507364199868031
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_164
+  - first:
+      213: 2432568741161775386
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_165
+  - first:
+      213: 5890185842710819159
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_166
+  - first:
+      213: 2649395824502319647
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_167
+  - first:
+      213: 301718374167098009
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_168
+  - first:
+      213: -8406131757816598435
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_169
+  - first:
+      213: 3718958933028051701
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_170
+  - first:
+      213: -7381524270486931022
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_171
+  - first:
+      213: -7424910096545699765
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_172
+  - first:
+      213: -1667995920390726151
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_173
+  - first:
+      213: -6230863280280942103
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_174
+  - first:
+      213: -3189277113168965596
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_175
+  - first:
+      213: -5508875735098915424
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_176
+  - first:
+      213: 4178618776841884993
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_177
+  - first:
+      213: -3174587392433989780
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_178
+  - first:
+      213: 4014656788087681412
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_179
+  - first:
+      213: 1361165767611460187
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_180
+  - first:
+      213: 7111385108936297654
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_181
+  - first:
+      213: 4350633502526294716
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_182
+  - first:
+      213: -7069085858163995247
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_183
+  - first:
+      213: -3981123205861640876
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_184
+  - first:
+      213: -8443294684796870101
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_185
+  - first:
+      213: -3852169281577831142
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_186
+  - first:
+      213: -3470878396304259362
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_187
+  - first:
+      213: -6102911627340617992
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_188
+  - first:
+      213: 6186307127548066957
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_189
+  - first:
+      213: -2917864077764699532
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_190
+  - first:
+      213: 1113038349490136965
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_191
+  - first:
+      213: -2726413834426767727
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_192
+  - first:
+      213: -7771581873427861283
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_193
+  - first:
+      213: -6121346234540679841
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_194
+  - first:
+      213: -472117541075529896
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_195
+  - first:
+      213: 5072184955620931514
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_196
+  - first:
+      213: 6732830728175550655
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_197
+  - first:
+      213: -549911809268407420
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_198
+  - first:
+      213: 5361822556226741156
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_199
+  - first:
+      213: -2078441087730654548
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_200
+  - first:
+      213: 1512304767775029450
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_201
+  - first:
+      213: -6521394478998753400
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_202
+  - first:
+      213: -3305948456102695081
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_203
+  - first:
+      213: -3573805472650208720
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_204
+  - first:
+      213: -1291187452841780202
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_205
+  - first:
+      213: -2585560668309291292
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_206
+  - first:
+      213: 6113798839686654568
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_207
+  - first:
+      213: -5282051810313616844
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_208
+  - first:
+      213: 1134508011241323851
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_209
+  - first:
+      213: -7172852200375512862
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_210
+  - first:
+      213: -8022421832735332277
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_211
+  - first:
+      213: -174822932669248546
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_212
+  - first:
+      213: -6319230205712078438
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_213
+  - first:
+      213: -5618890280152873927
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_214
+  - first:
+      213: 4764568448684816096
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_215
+  - first:
+      213: 8561614485868748399
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_216
+  - first:
+      213: -6703956939172698605
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_217
+  - first:
+      213: 585587634292423321
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_218
+  - first:
+      213: 1180647557730171896
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_219
+  - first:
+      213: -619232643924612023
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_220
+  - first:
+      213: 6760331473700452753
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_221
+  - first:
+      213: -4187851113917397771
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_222
+  - first:
+      213: -1747928876143496969
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_223
+  - first:
+      213: -3467041669852357044
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_224
+  - first:
+      213: -4168491942378680636
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_225
+  - first:
+      213: -5451000777784733278
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_226
+  - first:
+      213: 7450867305691729790
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_227
+  - first:
+      213: -3123435502029785074
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_228
+  - first:
+      213: 4095061748455501535
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_229
+  - first:
+      213: 7034910939344935320
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_230
+  - first:
+      213: -8407176639683221037
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_231
+  - first:
+      213: -275863148775576794
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_232
+  - first:
+      213: -7947833108256467235
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_233
+  - first:
+      213: 5277500448792769393
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_234
+  - first:
+      213: -3771146109598124235
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_235
+  - first:
+      213: 3034237589592149554
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_236
+  - first:
+      213: -2932857886931779329
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_237
+  - first:
+      213: -1276756573768731286
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_238
+  - first:
+      213: -5837459756145421133
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_239
+  - first:
+      213: 6849956854299391474
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_240
+  - first:
+      213: -1711214189157793545
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_241
+  - first:
+      213: 1362906759531333073
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_242
+  - first:
+      213: 9193707122488921695
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_243
+  - first:
+      213: 5872743391376065358
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_244
+  - first:
+      213: 6862016594917998888
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_245
+  - first:
+      213: -3421076036486906641
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_246
+  - first:
+      213: -2652199562587917798
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_247
+  - first:
+      213: 8119469408142524590
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_248
+  - first:
+      213: 8102759250735312680
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_249
+  - first:
+      213: 1453986855347194475
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_250
+  - first:
+      213: -7498600389271487073
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_251
+  - first:
+      213: -2877499535932566083
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_252
+  - first:
+      213: 3229595965341261262
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_253
+  - first:
+      213: 541403927637491918
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_254
+  - first:
+      213: -4497528741373558247
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_255
+  - first:
+      213: 7711050825850989218
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_256
+  - first:
+      213: 4275682416503752583
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_257
+  - first:
+      213: 5905069924256364235
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_258
+  - first:
+      213: -5477476806227481337
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_259
+  - first:
+      213: -7195636219435810713
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_260
+  - first:
+      213: 6803056969828965425
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_261
+  - first:
+      213: 7091043956445172428
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_262
+  - first:
+      213: -2045428798838217754
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_263
+  - first:
+      213: 7135311903535534620
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_264
+  - first:
+      213: -1053422253727932374
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_265
+  - first:
+      213: -4194842602994623370
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_266
+  - first:
+      213: 1953586001372532823
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_267
+  - first:
+      213: 2686256526515641557
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_268
+  - first:
+      213: 6582556931180402681
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_269
+  - first:
+      213: -5848390172730791657
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_270
+  - first:
+      213: 7200306274664566714
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_271
+  - first:
+      213: 7553449267919965206
+    second: Nintendo Switch - Octopath Traveler - Primrose Dancer Base (1)_272
+  - first:
+      213: 7468356559241021412
+    second: Bard_0
+  - first:
+      213: 2641552370617233591
+    second: Bard_1
+  - first:
+      213: -355586358179388676
+    second: Bard_2
+  - first:
+      213: 1116393739805720282
+    second: Bard_3
+  - first:
+      213: 451253368066207791
+    second: Bard_4
+  - first:
+      213: -4469621225018959358
+    second: Bard_5
+  - first:
+      213: -6068777645129791810
+    second: Bard_6
+  - first:
+      213: 8057059745717917174
+    second: Bard_7
+  - first:
+      213: -1158167201145722253
+    second: Bard_8
+  - first:
+      213: -7126971098323140796
+    second: Bard_9
+  - first:
+      213: 8208441374181826969
+    second: Bard_10
+  - first:
+      213: -4799365193606019538
+    second: Bard_11
+  - first:
+      213: 2708270724064291528
+    second: Bard_12
+  - first:
+      213: -2923222773623827221
+    second: Bard_13
+  - first:
+      213: 1611223571027889879
+    second: Bard_14
+  - first:
+      213: -4148487964377554581
+    second: Bard_15
+  - first:
+      213: -4792103205109025796
+    second: Bard_16
+  - first:
+      213: -2632319564548588110
+    second: Bard_17
+  - first:
+      213: -3177222363862726058
+    second: Bard_18
+  - first:
+      213: 7194957536474199500
+    second: Bard_19
+  - first:
+      213: 142826521883598833
+    second: Bard_20
+  - first:
+      213: 5757118792828220782
+    second: Bard_21
+  - first:
+      213: -2646025304293483419
+    second: Bard_22
+  - first:
+      213: -6026798897555838628
+    second: Bard_23
+  - first:
+      213: 7948948909693740578
+    second: Bard_24
+  - first:
+      213: -6793040794292357845
+    second: Bard_25
+  - first:
+      213: 4075807890118953975
+    second: Bard_26
+  - first:
+      213: -5162861305936378705
+    second: Bard_27
+  - first:
+      213: 4351801276879189104
+    second: Bard_28
+  - first:
+      213: 5277385560989384646
+    second: Bard_29
+  - first:
+      213: -7897619837088766144
+    second: Bard_30
+  - first:
+      213: 6415877060703632607
+    second: Bard_31
+  - first:
+      213: 4065057156605985872
+    second: Bard_32
+  - first:
+      213: -4932214779529505578
+    second: Bard_33
+  - first:
+      213: 7668468361725161034
+    second: Bard_34
+  - first:
+      213: -1406849950856733009
+    second: Bard_35
+  - first:
+      213: -4798799174996443766
+    second: Bard_36
+  - first:
+      213: 5039838985784089172
+    second: Bard_37
+  - first:
+      213: 3871488861187804921
+    second: Bard_38
+  - first:
+      213: -6830036010393663188
+    second: Bard_39
+  - first:
+      213: -7693307289944272954
+    second: Bard_40
+  - first:
+      213: -7384551176955209540
+    second: Bard_41
+  - first:
+      213: 4266338709727659225
+    second: Bard_42
+  - first:
+      213: 945609318796487789
+    second: Bard_43
+  - first:
+      213: 4083287299570984606
+    second: Bard_44
+  - first:
+      213: -948808162259040923
+    second: Bard_45
+  - first:
+      213: -5171399993345507368
+    second: Bard_46
+  - first:
+      213: -7622197275649606537
+    second: Bard_47
+  - first:
+      213: 4424129039861720393
+    second: Bard_48
+  - first:
+      213: 1280106053495956031
+    second: Bard_49
+  - first:
+      213: 1685975781868610530
+    second: Bard_50
+  - first:
+      213: 8838365571380028797
+    second: Bard_51
+  - first:
+      213: 8886773031848416846
+    second: Bard_52
+  - first:
+      213: 1350956611218892635
+    second: Bard_53
+  - first:
+      213: 4618716099690567057
+    second: Bard_54
+  - first:
+      213: -3518121110058158347
+    second: Bard_55
+  - first:
+      213: 2109234826602518253
+    second: Bard_56
+  - first:
+      213: 8318120137573357790
+    second: Bard_57
+  - first:
+      213: -7048595224550404526
+    second: Bard_58
+  - first:
+      213: -515888860448897489
+    second: Bard_59
+  - first:
+      213: 347681366808262067
+    second: Bard_60
+  - first:
+      213: -7197547417890959399
+    second: Bard_61
+  - first:
+      213: -7014546520756672244
+    second: Bard_62
+  - first:
+      213: 5865644569872652479
+    second: Bard_63
+  - first:
+      213: -1228247906896418133
+    second: Bard_64
+  - first:
+      213: 6778455192715376771
+    second: Bard_65
+  - first:
+      213: 4116893032987489826
+    second: Bard_66
+  - first:
+      213: 8572540130580116716
+    second: Bard_67
+  - first:
+      213: 1864461393839590143
+    second: Bard_68
+  - first:
+      213: -384553599886264772
+    second: Bard_69
+  - first:
+      213: -6934632249960187698
+    second: Bard_70
+  - first:
+      213: 1987948133496038526
+    second: Bard_71
+  - first:
+      213: 4704676231316327931
+    second: Bard_72
+  - first:
+      213: 3079241944580785530
+    second: Bard_73
+  - first:
+      213: -1501376772586632019
+    second: Bard_74
+  - first:
+      213: 4400241957824886612
+    second: Bard_75
+  - first:
+      213: -5483897802509605719
+    second: Bard_76
+  - first:
+      213: -7815827352862220198
+    second: Bard_77
+  - first:
+      213: -6758505857392332795
+    second: Bard_78
+  - first:
+      213: 7392034522555718805
+    second: Bard_79
+  - first:
+      213: -8548406922297344236
+    second: Bard_80
+  - first:
+      213: 7065964283591160971
+    second: Bard_81
+  - first:
+      213: -1209293206608822519
+    second: Bard_82
+  - first:
+      213: 6080249482411740592
+    second: Bard_83
+  - first:
+      213: 4798589187310405217
+    second: Bard_84
+  - first:
+      213: -4463301514468380702
+    second: Bard_85
+  - first:
+      213: -1614266088017960706
+    second: Bard_86
+  - first:
+      213: -4462885126944411976
+    second: Bard_87
+  - first:
+      213: 461237629713680964
+    second: Bard_88
+  - first:
+      213: 2508930109856677653
+    second: Bard_89
+  - first:
+      213: -1906267835385167531
+    second: Bard_90
+  - first:
+      213: 7921428076756774944
+    second: Bard_91
+  - first:
+      213: -4324736953750730643
+    second: Bard_92
+  - first:
+      213: -7915718439587018003
+    second: Bard_93
+  - first:
+      213: 6107288941745669402
+    second: Bard_94
+  - first:
+      213: -7727075145917397377
+    second: Bard_95
+  - first:
+      213: 6159085597151635485
+    second: Bard_96
+  - first:
+      213: -4302759372124199920
+    second: Bard_97
+  - first:
+      213: 2534173530123749196
+    second: Bard_98
+  - first:
+      213: -3435451209895273870
+    second: Bard_99
+  - first:
+      213: 1675321767262009731
+    second: Bard_100
+  - first:
+      213: -699315064952898043
+    second: Bard_101
+  - first:
+      213: 8569788747238777658
+    second: Bard_102
+  - first:
+      213: 2761865836485346988
+    second: Bard_103
+  - first:
+      213: -1971295732440787770
+    second: Bard_104
+  - first:
+      213: -8877524852992146457
+    second: Bard_105
+  - first:
+      213: -327009389638446431
+    second: Bard_106
+  - first:
+      213: -8149169637444907324
+    second: Bard_107
+  - first:
+      213: -4898300337132701093
+    second: Bard_108
+  - first:
+      213: -7980389801563675040
+    second: Bard_109
+  - first:
+      213: -4280261564240860213
+    second: Bard_110
+  - first:
+      213: 3822224687108400567
+    second: Bard_111
+  - first:
+      213: -709213169971149108
+    second: Bard_112
+  - first:
+      213: -8798124718646636068
+    second: Bard_113
+  - first:
+      213: -616431362367507063
+    second: Bard_114
+  - first:
+      213: 7978336145750068953
+    second: Bard_115
+  - first:
+      213: 7919379144185755409
+    second: Bard_116
+  - first:
+      213: -9026742647163983557
+    second: Bard_117
+  - first:
+      213: 3161914327681033176
+    second: Bard_118
+  - first:
+      213: -1839325995733727415
+    second: Bard_119
+  - first:
+      213: 4690832308999846946
+    second: Bard_120
+  - first:
+      213: -415559775539924533
+    second: Bard_121
+  - first:
+      213: 4838188855101650014
+    second: Bard_122
+  - first:
+      213: -6971812045425113389
+    second: Bard_123
+  - first:
+      213: 3034742617505717771
+    second: Bard_124
+  - first:
+      213: -3351777977517863210
+    second: Bard_125
+  - first:
+      213: 588068215334736114
+    second: Bard_126
+  - first:
+      213: -6632643939359871491
+    second: Bard_127
+  - first:
+      213: -7358099136070967659
+    second: Bard_128
+  - first:
+      213: -1372814604672813820
+    second: Bard_129
+  - first:
+      213: -8711804830041083554
+    second: Bard_130
+  - first:
+      213: -498714495319940654
+    second: Bard_131
+  - first:
+      213: -6471926554460644217
+    second: Bard_132
+  - first:
+      213: 215423460901380195
+    second: Bard_133
+  - first:
+      213: 5820653585543094721
+    second: Bard_134
+  - first:
+      213: -8133014690601498926
+    second: Bard_135
+  - first:
+      213: 15081346888727612
+    second: Bard_136
+  - first:
+      213: 6887163741802581992
+    second: Bard_137
+  - first:
+      213: 70221156553949838
+    second: Bard_138
+  - first:
+      213: 1610207875007974699
+    second: Bard_139
+  - first:
+      213: -392893999072038836
+    second: Bard_140
+  - first:
+      213: 9072353295469121178
+    second: Bard_141
+  - first:
+      213: -1590355800601823690
+    second: Bard_142
+  - first:
+      213: -1516481350901800958
+    second: Bard_143
+  - first:
+      213: 6992288191062185427
+    second: Bard_144
+  - first:
+      213: 8079622351580109219
+    second: Bard_145
+  - first:
+      213: -7958911592397623649
+    second: Bard_146
+  - first:
+      213: -172074553397063936
+    second: Bard_147
+  - first:
+      213: -8571277483457881349
+    second: Bard_148
+  - first:
+      213: -8329143131822537008
+    second: Bard_149
+  - first:
+      213: 6460294254537420314
+    second: Bard_150
+  - first:
+      213: 4315766844180815716
+    second: Bard_151
+  - first:
+      213: 5579848511899954607
+    second: Bard_152
+  - first:
+      213: -7614308852166337575
+    second: Bard_153
+  - first:
+      213: -9219013911992237136
+    second: Bard_154
+  - first:
+      213: -2129397556939649340
+    second: Bard_155
+  - first:
+      213: -5920832799353885487
+    second: Bard_156
+  - first:
+      213: -5676441448951370773
+    second: Bard_157
+  - first:
+      213: -4921696974365635118
+    second: Bard_158
+  - first:
+      213: -2795329613416128557
+    second: Bard_159
+  - first:
+      213: -5149278242447495258
+    second: Bard_160
+  - first:
+      213: 9010085459128459979
+    second: Bard_161
+  - first:
+      213: 8177858543667757553
+    second: Bard_162
+  - first:
+      213: -5341111062428563468
+    second: Bard_163
+  - first:
+      213: 6714200806527464430
+    second: Bard_164
+  - first:
+      213: -4573343848433956985
+    second: Bard_165
+  - first:
+      213: -7975032489353699666
+    second: Bard_166
+  - first:
+      213: 3184931774612443892
+    second: Bard_167
+  - first:
+      213: -4881236025033316718
+    second: Bard_168
+  - first:
+      213: -3651926934803510767
+    second: Bard_169
+  - first:
+      213: -7052752602422237571
+    second: Bard_170
+  - first:
+      213: 3476117390150701604
+    second: Bard_171
+  - first:
+      213: -5190665008148351673
+    second: Bard_172
+  - first:
+      213: 381387828081635292
+    second: Bard_173
+  - first:
+      213: 2184065630806128924
+    second: Bard_174
+  - first:
+      213: -232270199014151486
+    second: Bard_175
+  - first:
+      213: 7605232230898407399
+    second: Bard_176
+  - first:
+      213: 9155032901820898317
+    second: Bard_177
+  - first:
+      213: 8005921553271484424
+    second: Bard_178
+  - first:
+      213: 5339209431599658067
+    second: Bard_179
+  - first:
+      213: 1014167855418418227
+    second: Bard_180
+  - first:
+      213: -968661754381041429
+    second: Bard_181
+  - first:
+      213: -4934295984125043579
+    second: Bard_182
+  - first:
+      213: 1742134374049302469
+    second: Bard_183
+  - first:
+      213: -2358877043508640705
+    second: Bard_184
+  - first:
+      213: -5050228024573915827
+    second: Bard_185
+  - first:
+      213: -7048829689975723169
+    second: Bard_186
+  - first:
+      213: -4253413483711151250
+    second: Bard_187
+  - first:
+      213: -8445468161915259535
+    second: Bard_188
+  - first:
+      213: 795823033482683939
+    second: Bard_189
+  - first:
+      213: -6171510541946632890
+    second: Bard_190
+  - first:
+      213: 555519766397893660
+    second: Bard_191
+  - first:
+      213: -7752504922174859623
+    second: Bard_192
+  - first:
+      213: 6653270105020694992
+    second: Bard_193
+  - first:
+      213: -7161328407417932089
+    second: Bard_194
+  - first:
+      213: -8462283595542571725
+    second: Bard_195
+  - first:
+      213: 6835969728991752994
+    second: Bard_196
+  - first:
+      213: 3742324594557768027
+    second: Bard_197
+  - first:
+      213: -6460498005928911981
+    second: Bard_198
+  - first:
+      213: -3008742241846813866
+    second: Bard_199
+  - first:
+      213: 7533813065626834928
+    second: Bard_200
+  - first:
+      213: -4081998439044746514
+    second: Bard_201
+  - first:
+      213: -852133993587887984
+    second: Bard_202
+  - first:
+      213: 5858753392926723402
+    second: Bard_203
+  - first:
+      213: -6293833651168407736
+    second: Bard_204
+  - first:
+      213: -3040335969785984212
+    second: Bard_205
+  - first:
+      213: 6571463714094991533
+    second: Bard_206
+  - first:
+      213: -8575944819778945529
+    second: Bard_207
+  - first:
+      213: -6063557502011080546
+    second: Bard_208
+  - first:
+      213: -3144623054303129609
+    second: Bard_209
+  - first:
+      213: 3753704182653534416
+    second: Bard_210
+  - first:
+      213: 2273841262041634348
+    second: Bard_211
+  - first:
+      213: -4936294523843807289
+    second: Bard_212
+  - first:
+      213: 7687643240783307571
+    second: Bard_213
+  - first:
+      213: 7516368604783173868
+    second: Bard_214
+  - first:
+      213: 7410168018534298375
+    second: Bard_215
+  - first:
+      213: 491676064964798937
+    second: Bard_216
+  - first:
+      213: -4076486882277863537
+    second: Bard_217
+  - first:
+      213: 3286654658392804646
+    second: Bard_218
+  - first:
+      213: 5142293065967272238
+    second: Bard_219
+  - first:
+      213: 6776134990594311550
+    second: Bard_220
+  - first:
+      213: 2624917108265581029
+    second: Bard_221
+  - first:
+      213: -7059018168125260256
+    second: Bard_222
+  - first:
+      213: -908646602356155711
+    second: Bard_223
+  - first:
+      213: 1370102342581306129
+    second: Bard_224
+  - first:
+      213: -7512658296855470918
+    second: Bard_225
+  - first:
+      213: -5258218991154200482
+    second: Bard_226
+  - first:
+      213: 8907370127153725027
+    second: Bard_227
+  - first:
+      213: -3469729948592963284
+    second: Bard_228
+  - first:
+      213: 8216837797593089747
+    second: Bard_229
+  - first:
+      213: -9099961722359031458
+    second: Bard_230
+  - first:
+      213: 7303522287818825789
+    second: Bard_231
+  - first:
+      213: -7088101318847230425
+    second: Bard_232
+  - first:
+      213: 8749959625746457512
+    second: Bard_233
+  - first:
+      213: 6729391929374025776
+    second: Bard_234
+  - first:
+      213: 6300143314041722965
+    second: Bard_235
+  - first:
+      213: 2106781423200406899
+    second: Bard_236
+  - first:
+      213: 6077903445383180424
+    second: Bard_237
+  - first:
+      213: 3020935310581391729
+    second: Bard_238
+  - first:
+      213: 6005623699197920381
+    second: Bard_239
+  - first:
+      213: -3244602406443475988
+    second: Bard_240
+  - first:
+      213: -2118832706376912867
+    second: Bard_241
+  - first:
+      213: 7399032685551292042
+    second: Bard_242
+  - first:
+      213: -7835589244355375855
+    second: Bard_243
+  - first:
+      213: 7282189865427845465
+    second: Bard_244
+  - first:
+      213: -2285910129827469511
+    second: Bard_245
+  - first:
+      213: -7677636458433460914
+    second: Bard_246
+  - first:
+      213: -3461939028271196245
+    second: Bard_247
+  - first:
+      213: -1457575639477910057
+    second: Bard_248
+  - first:
+      213: 4683325004192324930
+    second: Bard_249
+  - first:
+      213: -6672647361496124884
+    second: Bard_250
+  - first:
+      213: -2751347780925809678
+    second: Bard_251
+  - first:
+      213: 499648570196466430
+    second: Bard_252
+  - first:
+      213: 5237902250643492194
+    second: Bard_253
+  - first:
+      213: -26687532818168736
+    second: Bard_254
+  - first:
+      213: 3526684207391592713
+    second: Bard_255
+  - first:
+      213: -1891527090107419156
+    second: Bard_256
+  - first:
+      213: 5924619257292630547
+    second: Bard_257
+  - first:
+      213: 692656443722587
+    second: Bard_258
+  - first:
+      213: -6618291884794173869
+    second: Bard_259
+  - first:
+      213: -323850141389594387
+    second: Bard_260
+  - first:
+      213: -3167654039735199786
+    second: Bard_261
+  - first:
+      213: -2459346731599909595
+    second: Bard_262
+  - first:
+      213: 8109997444401000162
+    second: Bard_263
+  - first:
+      213: 5328670002345902957
+    second: Bard_264
+  - first:
+      213: -3699616447744205251
+    second: Bard_265
+  - first:
+      213: 3097981940270644464
+    second: Bard_266
+  - first:
+      213: -1670472192120494663
+    second: Bard_267
+  - first:
+      213: 1082267463446547750
+    second: Bard_268
+  - first:
+      213: 1043027140161687833
+    second: Bard_269
+  - first:
+      213: -5217027251143440597
+    second: Bard_270
+  - first:
+      213: -496279948636307901
+    second: Bard_271
+  - first:
+      213: -2583083083686087040
+    second: Bard_272
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bard_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 477
+        width: 22
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e70589b8bee4a760800000000000000
+      internalID: 7468356559241021412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 477
+        width: 21
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b03b32b2eda8a420800000000000000
+      internalID: 2641552370617233591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 477
+        width: 19
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf22eb95714b01bf0800000000000000
+      internalID: -355586358179388676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 477
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adef692013a3e7f00800000000000000
+      internalID: 1116393739805720282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_4
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 477
+        width: 21
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20f8432c8c234600800000000000000
+      internalID: 451253368066207791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_5
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 477
+        width: 22
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ad23a4d27b8f1c0800000000000000
+      internalID: -4469621225018959358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_6
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 477
+        width: 21
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb60531b2ee57cba0800000000000000
+      internalID: -6068777645129791810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 477
+        width: 19
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f59d9d862d60df60800000000000000
+      internalID: 8057059745717917174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_8
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 477
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a6339111d5defe0800000000000000
+      internalID: -1158167201145722253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_9
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 477
+        width: 21
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f39ffdb89e71d90800000000000000
+      internalID: -7126971098323140796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 19
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9912abb80fd3ae170800000000000000
+      internalID: 8208441374181826969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_11
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 480
+        width: 19
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e264db7d8ca356db0800000000000000
+      internalID: -4799365193606019538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_12
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 476
+        width: 22
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca217fdfd5b59520800000000000000
+      internalID: 2708270724064291528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_13
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 476
+        width: 22
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4d1d21060ae67d0800000000000000
+      internalID: -2923222773623827221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_14
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 477
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de8adc1d473c5610800000000000000
+      internalID: 1611223571027889879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_15
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 477
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61ea401d2c9d66c0800000000000000
+      internalID: -4148487964377554581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_16
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 477
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3377c46870f7db0800000000000000
+      internalID: -4792103205109025796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_17
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 477
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd35cb7d4f187bd0800000000000000
+      internalID: -2632319564548588110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_18
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 477
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a098df71d38e3d0800000000000000
+      internalID: -3177222363862726058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_19
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 477
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5709742cf99d360800000000000000
+      internalID: 7194957536474199500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_20
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 477
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff506507fb6bf100800000000000000
+      internalID: 142826521883598833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_21
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 477
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6570402a0565ef40800000000000000
+      internalID: 5757118792828220782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_22
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 477
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c54e6410e674bd0800000000000000
+      internalID: -2646025304293483419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_23
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 477
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59e77285528c5ca0800000000000000
+      internalID: -6026798897555838628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 450
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22626040be6505e60800000000000000
+      internalID: 7948948909693740578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_25
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 450
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25777f73654ab1a0800000000000000
+      internalID: -6793040794292357845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_26
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 450
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb46477ead209830800000000000000
+      internalID: 4075807890118953975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_27
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 450
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa48d0b0ff4d958b0800000000000000
+      internalID: -5162861305936378705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_28
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 450
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074b9795434b46c30800000000000000
+      internalID: 4351801276879189104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_29
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 450
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf3c89f43a0d3940800000000000000
+      internalID: 5277385560989384646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_30
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 450
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047ee3ff994066290800000000000000
+      internalID: -7897619837088766144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_31
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 450
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc31d5a136c90950800000000000000
+      internalID: 6415877060703632607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_32
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 442
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054c82342fbf96830800000000000000
+      internalID: 4065057156605985872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 437
+        width: 20
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4563e3ac04d8bb0800000000000000
+      internalID: -4932214779529505578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_34
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 445
+        width: 34
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e23ff785fdb6a60800000000000000
+      internalID: 7668468361725161034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_35
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 446
+        width: 34
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae98ea6c6dd97ce0800000000000000
+      internalID: -1406849950856733009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_36
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 446
+        width: 34
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d36e1539d376db0800000000000000
+      internalID: -4798799174996443766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_37
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 445
+        width: 34
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a53d8fada11f540800000000000000
+      internalID: 5039838985784089172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_38
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 443
+        width: 36
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe0bf27b9a4ab530800000000000000
+      internalID: 3871488861187804921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_39
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 441
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c290c558f66d631a0800000000000000
+      internalID: -6830036010393663188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_40
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 442
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfc2fad7c1eb3590800000000000000
+      internalID: -7693307289944272954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_41
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 437
+        width: 20
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb854ef54ddc48990800000000000000
+      internalID: -7384551176955209540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_42
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 445
+        width: 34
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4c0d4d374153b30800000000000000
+      internalID: 4266338709727659225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 407
+        width: 34
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ce9275aaa7f1d00800000000000000
+      internalID: 945609318796487789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_44
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 407
+        width: 34
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96eace2a20caa830800000000000000
+      internalID: 4083287299570984606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_45
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 406
+        width: 34
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5650f80e00825d2f0800000000000000
+      internalID: -948808162259040923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_46
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 404
+        width: 36
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dffe25fa1f7b38b0800000000000000
+      internalID: -5171399993345507368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_47
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 402
+        width: 48
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c74f046f3883690800000000000000
+      internalID: -7622197275649606537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_48
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 403
+        width: 48
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945a275fbe9a56d30800000000000000
+      internalID: 4424129039861720393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_49
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 404
+        width: 48
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3224716ca9d3c110800000000000000
+      internalID: 1280106053495956031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_50
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 404
+        width: 50
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3a03a7a0ac56710800000000000000
+      internalID: 1685975781868610530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_51
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 403
+        width: 48
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d752625d8ae28aa70800000000000000
+      internalID: 8838365571380028797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_52
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 402
+        width: 48
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4698d20df8245b70800000000000000
+      internalID: 8886773031848416846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_53
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 403
+        width: 48
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57eaa651ef8fb210800000000000000
+      internalID: 1350956611218892635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_54
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 369
+        width: 48
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1951f6852d9f81040800000000000000
+      internalID: 4618716099690567057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_55
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 369
+        width: 50
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f63e2e7d7f1d2fc0800000000000000
+      internalID: -3518121110058158347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_56
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 368
+        width: 48
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6968b46e1854d10800000000000000
+      internalID: 2109234826602518253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_57
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 367
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8551f9136ef6370800000000000000
+      internalID: 8318120137573357790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_58
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 368
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e88230dfb5e2e90800000000000000
+      internalID: -7048595224550404526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_59
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 369
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26cc5190d137d8f0800000000000000
+      internalID: -515888860448897489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_60
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 369
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5f0ab6c5633d400800000000000000
+      internalID: 347681366808262067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_61
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 369
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df4496f1cc2d1c90800000000000000
+      internalID: -7197547417890959399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_62
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 369
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09a8d1aa1357ae90800000000000000
+      internalID: -7014546520756672244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_63
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 368
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb855f5a8a4f66150800000000000000
+      internalID: 5865644569872652479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_64
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 367
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa6255490364fee0800000000000000
+      internalID: -1228247906896418133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_65
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 368
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388b3bf7519e11e50800000000000000
+      internalID: 6778455192715376771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_66
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 369
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226ff79b664222930800000000000000
+      internalID: 4116893032987489826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_67
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 369
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4320a54d7c7f670800000000000000
+      internalID: 8572540130580116716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_68
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 369
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa0d3562c5efd910800000000000000
+      internalID: 1864461393839590143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_69
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 369
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c367ea1d98ac9aaf0800000000000000
+      internalID: -384553599886264772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_70
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 368
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8b72db5bc33cf90800000000000000
+      internalID: -6934632249960187698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_71
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 367
+        width: 28
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74aee87b4c969b10800000000000000
+      internalID: 1987948133496038526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 333
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd45de1b1e5a4140800000000000000
+      internalID: 4704676231316327931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_73
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 334
+        width: 24
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75883ceb3aabba20800000000000000
+      internalID: 3079241944580785530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_74
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 334
+        width: 33
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac83fba7c90a2be0800000000000000
+      internalID: -1501376772586632019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_75
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 333
+        width: 25
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457fbe54fbcc01d30800000000000000
+      internalID: 4400241957824886612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_76
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 332
+        width: 28
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4aed8e00845e3b0800000000000000
+      internalID: -5483897802509605719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_77
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 333
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50addebe6a988390800000000000000
+      internalID: -7815827352862220198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_78
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 334
+        width: 24
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500bbb51bb6f432a0800000000000000
+      internalID: -6758505857392332795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_79
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 334
+        width: 33
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c9b5ccb38c59660800000000000000
+      internalID: 7392034522555718805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_80
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 333
+        width: 25
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ff9f01235fd5980800000000000000
+      internalID: -8548406922297344236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_81
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 335
+        width: 20
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b847c0f24195f0260800000000000000
+      internalID: 7065964283591160971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_82
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 335
+        width: 20
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fb9c65c3ab73fe0800000000000000
+      internalID: -1209293206608822519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_83
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 332
+        width: 26
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd87e090b2616450800000000000000
+      internalID: 6080249482411740592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_84
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 332
+        width: 25
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166caac1173089240800000000000000
+      internalID: 4798589187310405217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_85
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 332
+        width: 24
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef26a09bea2f02c0800000000000000
+      internalID: -4463301514468380702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_86
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 332
+        width: 23
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0eab2bb89f899e0800000000000000
+      internalID: -1614266088017960706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_87
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 332
+        width: 22
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8beaa175f95a012c0800000000000000
+      internalID: -4462885126944411976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_88
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 332
+        width: 26
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a80243e25a66600800000000000000
+      internalID: 461237629713680964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_89
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 332
+        width: 25
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ff94c54a281d220800000000000000
+      internalID: 2508930109856677653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_90
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 297
+        width: 24
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5514d19e0839b85e0800000000000000
+      internalID: -1906267835385167531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_91
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 297
+        width: 23
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020b4e4cdd09eed60800000000000000
+      internalID: 7921428076756774944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_92
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 297
+        width: 22
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68ceac67a27bf3c0800000000000000
+      internalID: -4324736953750730643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_93
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 296
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea086ab408b52290800000000000000
+      internalID: -7915718439587018003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_94
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 297
+        width: 24
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a150c694fe271c450800000000000000
+      internalID: 6107288941745669402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_95
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 297
+        width: 24
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7608d6381ae3c490800000000000000
+      internalID: -7727075145917397377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_96
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 296
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18a277e7b7797550800000000000000
+      internalID: 6159085597151635485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_97
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 297
+        width: 24
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014ed86e5278944c0800000000000000
+      internalID: -4302759372124199920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_98
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 297
+        width: 24
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47493626613b2320800000000000000
+      internalID: 2534173530123749196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_99
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 297
+        width: 21
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a910f8353d250d0800000000000000
+      internalID: -3435451209895273870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_100
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 297
+        width: 22
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389b1266540ff3710800000000000000
+      internalID: 1675321767262009731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_101
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 297
+        width: 21
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e376f47a88b46f0800000000000000
+      internalID: -699315064952898043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_102
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 297
+        width: 23
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33ae4ff5710ee670800000000000000
+      internalID: 8569788747238777658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_103
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 297
+        width: 24
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca60ff4685e145620800000000000000
+      internalID: 2761865836485346988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_104
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 297
+        width: 21
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c49f98c9fc84a4e0800000000000000
+      internalID: -1971295732440787770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_105
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 297
+        width: 22
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e383bc6e22bcc480800000000000000
+      internalID: -8877524852992146457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_106
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 297
+        width: 21
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2126451ba367bf0800000000000000
+      internalID: -327009389638446431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_107
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 297
+        width: 23
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce82b1146558ee80800000000000000
+      internalID: -8149169637444907324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_108
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 297
+        width: 24
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a7702bbcdb50cb0800000000000000
+      internalID: -4898300337132701093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_109
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 298
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066a5a4e1c5ff3190800000000000000
+      internalID: -7980389801563675040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_110
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 262
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb6aadf8c47994c0800000000000000
+      internalID: -4280261564240860213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_111
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 283
+        width: 31
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b523d61a154b0530800000000000000
+      internalID: 3822224687108400567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_112
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 283
+        width: 31
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc647d5216e5826f0800000000000000
+      internalID: -709213169971149108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_113
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 262
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1db7fce28c6e580800000000000000
+      internalID: -8798124718646636068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_114
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 262
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985bca121fef177f0800000000000000
+      internalID: -616431362367507063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_115
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 263
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de871a147eb8be60800000000000000
+      internalID: 7978336145750068953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_116
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 263
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11734da7f5947ed60800000000000000
+      internalID: 7919379144185755409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_117
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 263
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39ebec53619ab280800000000000000
+      internalID: -9026742647163983557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_118
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 263
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d365a7145061eb20800000000000000
+      internalID: 3161914327681033176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_119
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 263
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947462680c66976e0800000000000000
+      internalID: -1839325995733727415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_120
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 263
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c7cd6c12f291140800000000000000
+      internalID: 4690832308999846946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_121
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 261
+        width: 21
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1700cf592ab3af0800000000000000
+      internalID: -415559775539924533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_122
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 261
+        width: 21
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5476904123b42340800000000000000
+      internalID: 4838188855101650014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_123
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 261
+        width: 22
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d685a702e52f3f90800000000000000
+      internalID: -6971812045425113389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_124
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 261
+        width: 21
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0eda25f4529d1a20800000000000000
+      internalID: 3034742617505717771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_125
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 261
+        width: 21
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de021c10b71c71d0800000000000000
+      internalID: -3351777977517863210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_126
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 261
+        width: 22
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f099b61dec392800800000000000000
+      internalID: 588068215334736114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_127
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 261
+        width: 22
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdaec87a7d14f3a0800000000000000
+      internalID: -6632643939359871491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_128
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 261
+        width: 22
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e916412d7c2e990800000000000000
+      internalID: -7358099136070967659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_129
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 261
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405320af368c2fce0800000000000000
+      internalID: -1372814604672813820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_130
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 263
+        width: 33
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e517ed80aa3791780800000000000000
+      internalID: -8711804830041083554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_131
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 228
+        width: 33
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1ed1e0fc53419f0800000000000000
+      internalID: -498714495319940654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_132
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 226
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c94f4a6191f26a0800000000000000
+      internalID: -6471926554460644217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_133
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 226
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360ef4f0f765df200800000000000000
+      internalID: 215423460901380195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_134
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 226
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c166eec89d17c050800000000000000
+      internalID: 5820653585543094721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_135
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 226
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d60aadba3ab12f80800000000000000
+      internalID: -8133014690601498926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_136
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 226
+        width: 20
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c7904b764953000800000000000000
+      internalID: 15081346888727612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_137
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 226
+        width: 20
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efc714feee149f50800000000000000
+      internalID: 6887163741802581992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_138
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 226
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e828d1415c979f000800000000000000
+      internalID: 70221156553949838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_139
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 226
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d0364f78b985610800000000000000
+      internalID: 1610207875007974699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_140
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 226
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40bdee4df82c8af0800000000000000
+      internalID: -392893999072038836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_141
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 226
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e084d314977ed70800000000000000
+      internalID: 9072353295469121178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_142
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 226
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63675ae43dbede9e0800000000000000
+      internalID: -1590355800601823690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_143
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 226
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2006efafe3064fae0800000000000000
+      internalID: -1516481350901800958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_144
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 226
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d59b632019990160800000000000000
+      internalID: 6992288191062185427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_145
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 226
+        width: 21
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a91d3998b5902070800000000000000
+      internalID: 8079622351580109219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_146
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 226
+        width: 20
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ea66823144c8190800000000000000
+      internalID: -7958911592397623649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_147
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 226
+        width: 19
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f42e9fa1bac9df0800000000000000
+      internalID: -172074553397063936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_148
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 226
+        width: 19
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa50379a84bc0980800000000000000
+      internalID: -8571277483457881349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_149
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 226
+        width: 24
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d645588370f86c80800000000000000
+      internalID: -8329143131822537008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_150
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 226
+        width: 24
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e233a756397a950800000000000000
+      internalID: 6460294254537420314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_151
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 226
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f5ec0341fa4eb30800000000000000
+      internalID: 4315766844180815716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_152
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 226
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fade94488aa9f6d40800000000000000
+      internalID: 5579848511899954607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_153
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 227
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db5388f07a845690800000000000000
+      internalID: -7614308852166337575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_154
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 227
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3815401bb7f0080800000000000000
+      internalID: -9219013911992237136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_155
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 192
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce0709343cd272e0800000000000000
+      internalID: -2129397556939649340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_156
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 192
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dca70c50f9f4dda0800000000000000
+      internalID: -5920832799353885487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_157
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 192
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb23f6c39a3931b0800000000000000
+      internalID: -5676441448951370773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_158
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 192
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd42d69dae92bbb0800000000000000
+      internalID: -4921696974365635118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_159
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 191
+        width: 23
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df9332e68ef439d0800000000000000
+      internalID: -2795329613416128557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_160
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 191
+        width: 23
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afe44578b61a88b0800000000000000
+      internalID: -5149278242447495258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_161
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 191
+        width: 23
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2a343dcf04a0d70800000000000000
+      internalID: 9010085459128459979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_162
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 191
+        width: 23
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1c5be64079d7170800000000000000
+      internalID: 8177858543667757553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_163
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 191
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7490289cf80e5b0800000000000000
+      internalID: -5341111062428563468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_164
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 191
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3f5b76f02ad2d50800000000000000
+      internalID: 6714200806527464430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_165
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 191
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787406e10083880c0800000000000000
+      internalID: -4573343848433956985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_166
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 191
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae9fd7543ef25190800000000000000
+      internalID: -7975032489353699666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_167
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 208
+        width: 33
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f211a31396233c20800000000000000
+      internalID: 3184931774612443892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_168
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 208
+        width: 33
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296ac0772bd524cb0800000000000000
+      internalID: -4881236025033316718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_169
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 191
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a0b513dcfb15dc0800000000000000
+      internalID: -3651926934803510767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_170
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 191
+        width: 22
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7629eb00e69f1e90800000000000000
+      internalID: -7052752602422237571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_171
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 198
+        width: 21
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4229d7d5956ad3030800000000000000
+      internalID: 3476117390150701604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_172
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 198
+        width: 21
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74574492dad07f7b0800000000000000
+      internalID: -5190665008148351673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_173
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 198
+        width: 21
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfa67e7536fa4500800000000000000
+      internalID: 381387828081635292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_174
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 198
+        width: 21
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19b65a9e1c5f4e10800000000000000
+      internalID: 2184065630806128924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_175
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 198
+        width: 21
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca2adf0c7fc6ccf0800000000000000
+      internalID: -232270199014151486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_176
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 163
+        width: 21
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e71d057b663b8960800000000000000
+      internalID: 7605232230898407399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_177
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 163
+        width: 21
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c5c043be53d0f70800000000000000
+      internalID: 9155032901820898317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_178
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 163
+        width: 21
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800f36a4c3fba1f60800000000000000
+      internalID: 8005921553271484424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_179
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 163
+        width: 21
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354b9ef80bea81a40800000000000000
+      internalID: 5339209431599658067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_180
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 164
+        width: 21
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334a5dc8a4c031e00800000000000000
+      internalID: 1014167855418418227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_181
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 164
+        width: 21
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be08c9e344f9e82f0800000000000000
+      internalID: -968661754381041429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_182
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 163
+        width: 21
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c179902fbd58bb0800000000000000
+      internalID: -4934295984125043579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_183
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 164
+        width: 21
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7c434abfd4d2810800000000000000
+      internalID: 1742134374049302469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_184
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 164
+        width: 21
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3408d8a3d5934fd0800000000000000
+      internalID: -2358877043508640705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_185
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 156
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d8c807e5cf9e9b0800000000000000
+      internalID: -5050228024573915827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_186
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 156
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b25c64eb68d2e90800000000000000
+      internalID: -7048829689975723169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_187
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 156
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e634a8cd8f6d8f4c0800000000000000
+      internalID: -4253413483711151250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_188
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 156
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1757b27e37babca80800000000000000
+      internalID: -8445468161915259535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_189
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 163
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3262fce15d45b0b00800000000000000
+      internalID: 795823033482683939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_190
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 163
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64541b33cd36a5aa0800000000000000
+      internalID: -6171510541946632890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_191
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 163
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cbad5c84a95b700800000000000000
+      internalID: 555519766397893660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_192
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 163
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996dc4a09d1996490800000000000000
+      internalID: -7752504922174859623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_193
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 165
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d10c74f8e9255c50800000000000000
+      internalID: 6653270105020694992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_194
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 165
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6b0fb71c9dd9c90800000000000000
+      internalID: -7161328407417932089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_195
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 159
+        width: 19
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335d11ba7edef8a80800000000000000
+      internalID: -8462283595542571725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_196
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 159
+        width: 19
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22370efff3e3ede50800000000000000
+      internalID: 6835969728991752994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_197
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 163
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51d2dc14686fe330800000000000000
+      internalID: 3742324594557768027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_198
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 163
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bdc74fa43b756a0800000000000000
+      internalID: -6460498005928911981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_199
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 158
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b120e3fdcce36d0800000000000000
+      internalID: -3008742241846813866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_200
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 123
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f752ec311b7d8860800000000000000
+      internalID: 7533813065626834928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_201
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 124
+        width: 18
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2f90b0c04d957c0800000000000000
+      internalID: -4081998439044746514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_202
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 122
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090b82bc5ac9c24f0800000000000000
+      internalID: -852133993587887984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_203
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 121
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d030c7b297e4150800000000000000
+      internalID: 5858753392926723402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_204
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 124
+        width: 19
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f05b2f3afc7a8a0800000000000000
+      internalID: -6293833651168407736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_205
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 122
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b401b3b8e8ec5d0800000000000000
+      internalID: -3040335969785984212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_206
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 121
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8400d4e67823b50800000000000000
+      internalID: 6571463714094991533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_207
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 124
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e79bbaf9f1cf880800000000000000
+      internalID: -8575944819778945529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_208
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 123
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e908979f39ae9dba0800000000000000
+      internalID: -6063557502011080546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_209
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 122
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff02c73efd0c54d0800000000000000
+      internalID: -3144623054303129609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_210
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 124
+        width: 17
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d046fee016d71430800000000000000
+      internalID: 3753704182653534416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_211
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 123
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c261e9b949e4e8f10800000000000000
+      internalID: 2273841262041634348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_212
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 122
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7759fb842ce7bb0800000000000000
+      internalID: -4936294523843807289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_213
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 121
+        width: 22
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33362deebceffaa60800000000000000
+      internalID: 7687643240783307571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_214
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 121
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0eff03c618f4860800000000000000
+      internalID: 7516368604783173868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_215
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 120
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70372b65d8436d660800000000000000
+      internalID: 7410168018534298375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_216
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 122
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9e9cca6c8c2d600800000000000000
+      internalID: 491676064964798937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_217
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 122
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fc94a57c86d67c0800000000000000
+      internalID: -4076486882277863537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_218
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 121
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dc2e49ffa8c9d20800000000000000
+      internalID: 3286654658392804646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_219
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 121
+        width: 22
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e210fe76c481d5740800000000000000
+      internalID: 5142293065967272238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_220
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 121
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7508785fdaa90e50800000000000000
+      internalID: 6776134990594311550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_221
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 120
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9f30bd3349d6420800000000000000
+      internalID: 2624917108265581029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_222
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 122
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e7dd95064590e90800000000000000
+      internalID: -7059018168125260256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_223
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 122
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca1238bab6d363f0800000000000000
+      internalID: -908646602356155711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_224
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 85
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1134d7b42d4930310800000000000000
+      internalID: 1370102342581306129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_225
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 87
+        width: 18
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcd901351dadb790800000000000000
+      internalID: -7512658296855470918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_226
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 85
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e508a01dfad0707b0800000000000000
+      internalID: -5258218991154200482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_227
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 84
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e7ce7ffe55d9b70800000000000000
+      internalID: 8907370127153725027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_228
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 87
+        width: 19
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c210593cefa09dfc0800000000000000
+      internalID: -3469729948592963284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_229
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 85
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d60a863172180270800000000000000
+      internalID: 8216837797593089747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_230
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 84
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e595325f60176b180800000000000000
+      internalID: -9099961722359031458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_231
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 87
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30e69633d25b5560800000000000000
+      internalID: 7303522287818825789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_232
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 86
+        width: 15
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e0226a76102ad90800000000000000
+      internalID: -7088101318847230425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_233
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 85
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3a0ab9be91e6970800000000000000
+      internalID: 8749959625746457512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_234
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 87
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03828b05e4a936d50800000000000000
+      internalID: 6729391929374025776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_235
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 86
+        width: 15
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558528be6fa9e6750800000000000000
+      internalID: 6300143314041722965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_236
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 85
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d804dca8acc3d10800000000000000
+      internalID: 2106781423200406899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_237
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 85
+        width: 20
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880ff214bfc095450800000000000000
+      internalID: 6077903445383180424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_238
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 85
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17163acc8a48ce920800000000000000
+      internalID: 3020935310581391729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_239
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 84
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d740c5d6fe2485350800000000000000
+      internalID: 6005623699197920381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_240
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 86
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb1f8e4d4bd8f2d0800000000000000
+      internalID: -3244602406443475988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_241
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 86
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10bced21e46892e0800000000000000
+      internalID: -2118832706376912867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_242
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 85
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e0ac79605aea660800000000000000
+      internalID: 7399032685551292042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_243
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 85
+        width: 20
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d8354d815624390800000000000000
+      internalID: -7835589244355375855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_244
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 85
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951c6c399198f0560800000000000000
+      internalID: 7282189865427845465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_245
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 84
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937aa2329d0d640e0800000000000000
+      internalID: -2285910129827469511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_246
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 86
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e454c74a15e837590800000000000000
+      internalID: -7677636458433460914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_247
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 86
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba795d1cbc8b4ffc0800000000000000
+      internalID: -3461939028271196245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_248
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 85
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d508afada6a5cbe0800000000000000
+      internalID: -1457575639477910057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_249
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 49
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d969a27438ef040800000000000000
+      internalID: 4683325004192324930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_250
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 49
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c227392f39ef563a0800000000000000
+      internalID: -6672647361496124884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_251
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 49
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb9b5045cf31d9d0800000000000000
+      internalID: -2751347780925809678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_252
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 49
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa97133abb1fe600800000000000000
+      internalID: 499648570196466430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_253
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 49
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d03d96854c0b840800000000000000
+      internalID: 5237902250643492194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_254
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 49
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064017e84df21aff0800000000000000
+      internalID: -26687532818168736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_255
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 49
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9015e88f99c41f030800000000000000
+      internalID: 3526684207391592713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_256
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 49
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce57e1f1222ffb5e0800000000000000
+      internalID: -1891527090107419156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_257
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 49
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31aad5413d9783250800000000000000
+      internalID: 5924619257292630547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_258
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 49
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b8745a7f5720000800000000000000
+      internalID: 692656443722587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_259
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 49
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3562ef2989a1724a0800000000000000
+      internalID: -6618291884794173869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_260
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 49
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de063022304718bf0800000000000000
+      internalID: -323850141389594387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_261
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 50
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7904e0f6b3a04d0800000000000000
+      internalID: -3167654039735199786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_262
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 49
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d28738d25aeddd0800000000000000
+      internalID: -2459346731599909595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_263
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 49
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eee8d205bf7c8070800000000000000
+      internalID: 8109997444401000162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_264
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 50
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d638b17722d33f940800000000000000
+      internalID: 5328670002345902957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_265
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 49
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e9303317258acc0800000000000000
+      internalID: -3699616447744205251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_266
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 49
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc386e292e3efa20800000000000000
+      internalID: 3097981940270644464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_267
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 50
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b56d7d446a41d8e0800000000000000
+      internalID: -1670472192120494663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_268
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 49
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dc1be168cf40f00800000000000000
+      internalID: 1082267463446547750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_269
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 49
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911dd6468a3997e00800000000000000
+      internalID: 1043027140161687833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_270
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 50
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2700182b556997b0800000000000000
+      internalID: -5217027251143440597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_271
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 49
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e3260240cdc19f0800000000000000
+      internalID: -496279948636307901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bard_272
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 49
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086f1930f9b072cd0800000000000000
+      internalID: -2583083083686087040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
