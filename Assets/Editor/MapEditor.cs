@@ -19,18 +19,19 @@ public class MapEditor
 
         foreach (GameObject go in map)
         {
+            Tilemap tmBase = Util.FindChild<Tilemap>(go, "Base", true);
             Tilemap tm = Util.FindChild<Tilemap>(go, "Collision", true);
 
-            using (var writer = File.CreateText($"Assets/Resources/Map/{go.name}_Collision.txt"))
+            using (var writer = File.CreateText($"Assets/Resources/Map/{go.name}.txt"))
             {
-                writer.WriteLine($"xMin : {tm.cellBounds.xMin}");
-                writer.WriteLine($"xMax : {tm.cellBounds.xMax}");
-                writer.WriteLine($"yMin : {tm.cellBounds.yMin}");
-                writer.WriteLine($"yMax : {tm.cellBounds.yMax}");
+                writer.WriteLine(tmBase.cellBounds.xMin);
+                writer.WriteLine(tmBase.cellBounds.xMax);
+                writer.WriteLine(tmBase.cellBounds.yMin);
+                writer.WriteLine(tmBase.cellBounds.yMax);
 
-                for (int y = tm.cellBounds.yMax; y >= tm.cellBounds.yMin; y--)
+                for (int y = tmBase.cellBounds.yMax; y >= tmBase.cellBounds.yMin; y--)
                 {
-                    for (int x = tm.cellBounds.xMin; x <= tm.cellBounds.xMax; x++)
+                    for (int x = tmBase.cellBounds.xMin; x <= tmBase.cellBounds.xMax; x++)
                     {
                         TileBase tile = tm.GetTile(new Vector3Int(x, y, 0));
                         if (tile != null)
