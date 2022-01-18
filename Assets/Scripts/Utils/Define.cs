@@ -4,6 +4,14 @@ using UnityEngine;
 
 public class Define
 {
+    public enum CreatureState
+    {
+        idle,
+        Walking,
+        Action,
+        Dead
+    }
+
     public enum MoveDir
     {
         None,

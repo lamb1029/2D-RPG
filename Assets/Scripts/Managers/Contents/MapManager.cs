@@ -12,7 +12,7 @@ public class MapManager
     public int MinY { get; set; }
     public int MaxY { get; set; }
 
-    bool[,] _collision; 
+    bool[,] _collision;
 
     public bool CanGo(Vector3Int cellPos)
     {
