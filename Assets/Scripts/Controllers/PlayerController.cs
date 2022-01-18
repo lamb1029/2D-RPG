@@ -5,6 +5,8 @@ using static Define;
 
 public class PlayerController : CreatureController
 {
+    Coroutine _coAction;
+
     private void LateUpdate()
     {
         Camera.main.transform.position = new Vector3(transform.position.x, transform.position.y, -10);
@@ -15,28 +17,85 @@ public class PlayerController : CreatureController
         base.Init();
     }
 
+    protected override void UpdateAnimation()
+    {
+        if (_state == CreatureState.Idle)
+        {
+            if (_dir == MoveDir.None)
+                anim.SetBool("Walking", false);
+            anim.SetBool("Attack", false);
+        }
+        else if (_state == CreatureState.Walking)
+        {
+            anim.SetBool("Walking", true);
+            switch (_dir)
+            {
+
+                case MoveDir.Up:
+                    anim.SetFloat("DirX", 0);
+                    anim.SetFloat("DirY", 1);
+                    _lastDir = MoveDir.Up;
+                    break;
+                case MoveDir.Down:
+                    anim.SetFloat("DirX", 0);
+                    anim.SetFloat("DirY", -1);
+                    _lastDir = MoveDir.Down;
+                    break;
+                case MoveDir.Left:
+                    anim.SetFloat("DirX", -1);
+                    anim.SetFloat("DirY", 0);
+                    _lastDir = MoveDir.Left;
+                    break;
+                case MoveDir.Right:
+                    anim.SetFloat("DirX", 1);
+                    anim.SetFloat("DirY", 0);
+                    _lastDir = MoveDir.Right;
+                    break;
+            }
+        }
+        else if (_state == CreatureState.Action)
+        {
+            anim.SetBool("Attack", true);
+        }
+        else if (_state == CreatureState.Dead)
+        {
+
+        }
+        else
+        {
+
+        }
+    }
+
     protected override void UpdateController()
     {
-        GetDir();
+        switch (State)
+        {
+            case CreatureState.Idle:
+                GetDirInput();
+                GetIdleInput();
+                break;
+            case CreatureState.Walking:
+                GetDirInput();
+                break;
+        }
+        
         base.UpdateController();
     }
 
-    void GetDir() //키입력
+    void GetDirInput() //키입력
     {
         if (Input.GetKey(KeyCode.W))
         {
             Dir = MoveDir.Up;
-            //anim.SetFloat("DirY", 1);
         }
         else if (Input.GetKey(KeyCode.S))
         {
             Dir = MoveDir.Down;
-
         }
         else if (Input.GetKey(KeyCode.A))
         {
             Dir = MoveDir.Left;
-
         }
         else if (Input.GetKey(KeyCode.D))
         {
@@ -46,5 +105,50 @@ public class PlayerController : CreatureController
         {
             Dir = MoveDir.None;
         }
+    }
+
+    void GetIdleInput()
+    {
+        if (Input.GetKey(KeyCode.Space))
+        {
+            State = CreatureState.Action;
+            //_coAction = StartCoroutine(CoStartAttack());
+            _coAction = StartCoroutine(CoStartShootArrow());
+        }
+    }
+
+    IEnumerator CoStartAttack()
+    {
+        //피격
+        GameObject go = Managers.Object.Find(GetFrontCellPos());
+        if(go != null)
+        {
+            Debug.Log(go.name);
+        }
+
+        //대기시간
+        yield return new WaitForSeconds(0.5f);
+        State = CreatureState.Idle;
+        _coAction = null;
+    }
+
+    IEnumerator CoStartShootArrow()
+    {
+        GameObject go = Managers.Resource.Instantiate("Creature/Arrow");
+        ArrowController ac = go.GetComponent<ArrowController>();
+        ac.Dir = _lastDir;
+        ac.CellPos = CellPos;
+
+        //대기시간
+        yield return new WaitForSeconds(0.3f);
+        State = CreatureState.Idle;
+        _coAction = null;
+    }
+
+    protected override void SetSorting()
+    {
+        SpriteRenderer sp = gameObject.GetComponent<SpriteRenderer>();
+        sp.sortingLayerName = "Creature";
+        sp.sortingOrder = ((int)transform.position.y * -1) + 1;
     }
 }

@@ -6,7 +6,7 @@ public class Define
 {
     public enum CreatureState
     {
-        idle,
+        Idle,
         Walking,
         Action,
         Dead

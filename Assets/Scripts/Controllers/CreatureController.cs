@@ -6,15 +6,15 @@ using static Define;
 public class CreatureController : MonoBehaviour
 {
     public float speed = 5.0f;
-    
-    public Vector3Int CellPos { get; set; } = Vector3Int.zero;
-    protected  Animator anim;
 
-    public CreatureState _state = CreatureState.idle;
+    public Vector3Int CellPos { get; set; } = Vector3Int.zero;
+    protected Animator anim;
+
+    [SerializeField] protected CreatureState _state = CreatureState.Idle;
     public CreatureState State
     {
         get { return _state; }
-        set 
+        set
         {
             if (_state == value)
                 return;
@@ -24,7 +24,8 @@ public class CreatureController : MonoBehaviour
         }
     }
 
-    public MoveDir _dir = MoveDir.None;
+    [SerializeField] protected MoveDir _lastDir;
+    [SerializeField] protected MoveDir _dir = MoveDir.None;
     public MoveDir Dir
     {
         get { return _dir; }
@@ -32,47 +33,78 @@ public class CreatureController : MonoBehaviour
         {
             if (_dir == value)
                 return;
-           
+
             _dir = value;
 
             UpdateAnimation();
         }
     }
 
+    public Vector3Int GetFrontCellPos()
+    {
+        Vector3Int cellPos = CellPos;
+
+        switch (_lastDir)
+        {
+            case MoveDir.Up:
+                cellPos += Vector3Int.up;
+                break;
+            case MoveDir.Down:
+                cellPos += Vector3Int.down;
+                break;
+            case MoveDir.Left:
+                cellPos += Vector3Int.left;
+                break;
+            case MoveDir.Right:
+                cellPos += Vector3Int.right;
+                break;
+        }
+
+        return cellPos;
+    }
+
     protected virtual void UpdateAnimation()
     {
-        if(_state == CreatureState.idle)
+        if (_state == CreatureState.Idle)
         {
-            anim.SetBool("Walking", false);
+            if (_dir == MoveDir.None)
+                anim.SetBool("Walking", false);
+            anim.SetBool("Attack", false);
         }
-        else if(_state == CreatureState.Walking)
+        else if (_state == CreatureState.Walking)
         {
             anim.SetBool("Walking", true);
             switch (_dir)
             {
+
                 case MoveDir.Up:
                     anim.SetFloat("DirX", 0);
                     anim.SetFloat("DirY", 1);
+                    _lastDir = MoveDir.Up;
+                    //anim.Play("Fighter_Walking_Back");
                     break;
                 case MoveDir.Down:
                     anim.SetFloat("DirX", 0);
                     anim.SetFloat("DirY", -1);
+                    _lastDir = MoveDir.Down;
                     break;
                 case MoveDir.Left:
                     anim.SetFloat("DirX", -1);
                     anim.SetFloat("DirY", 0);
+                    _lastDir = MoveDir.Left;
                     break;
                 case MoveDir.Right:
                     anim.SetFloat("DirX", 1);
                     anim.SetFloat("DirY", 0);
+                    _lastDir = MoveDir.Right;
                     break;
             }
         }
-        else if(_state == CreatureState.Action)
+        else if (_state == CreatureState.Action)
         {
-
+            anim.SetBool("Attack", true);
         }
-        else if(_state == CreatureState.Dead)
+        else if (_state == CreatureState.Dead)
         {
 
         }
@@ -90,7 +122,9 @@ public class CreatureController : MonoBehaviour
     void Update()
     {
         UpdateController();
+        SetSorting();
     }
+
 
     protected virtual void Init()
     {
@@ -102,35 +136,26 @@ public class CreatureController : MonoBehaviour
 
     protected virtual void UpdateController()
     {
-        UpdatePosition();
-        Walking();
-    }
-
-    void UpdatePosition()
-    {
-        if (State != CreatureState.Walking)
-            return;
-
-        Vector3 destPos = Managers.Map.CurrentGrid.CellToWorld(CellPos) + new Vector3(0.5f, 0);
-        Vector3 moveDir = destPos - transform.position;
-
-        //도착여부 체크
-        float dist = moveDir.magnitude;
-        if (dist < speed * Time.deltaTime)
+        switch (State)
         {
-            transform.position = destPos;
-            State = CreatureState.idle;
-        }
-        else
-        {
-            transform.position += moveDir.normalized * speed * Time.deltaTime;
-            State = CreatureState.Walking;
+            case CreatureState.Idle:
+                UpdateIdle();
+                break;
+            case CreatureState.Walking:
+                UpdateWalking();
+                break;
+            case CreatureState.Action:
+                UpdateAction();
+                break;
+            case CreatureState.Dead:
+                UpdateDead();
+                break;
         }
     }
 
-    void Walking()
+    protected virtual void UpdateIdle()
     {
-        if (State == CreatureState.idle && _dir != MoveDir.None)
+        if (_dir != MoveDir.None)
         {
             Vector3Int destPos = CellPos;
             switch (_dir)
@@ -152,11 +177,47 @@ public class CreatureController : MonoBehaviour
             State = CreatureState.Walking;
             if (Managers.Map.CanGo(destPos))
             {
-                if(Managers.Object.Find(destPos) == null)
+                if (Managers.Object.Find(destPos) == null)
                 {
                     CellPos = destPos;
                 }
             }
         }
+    }
+
+    protected virtual void UpdateWalking()
+    {
+        Vector3 destPos = Managers.Map.CurrentGrid.CellToWorld(CellPos) + new Vector3(0.5f, 0);
+        Vector3 moveDir = destPos - transform.position;
+
+        //도착여부 체크
+        float dist = moveDir.magnitude;
+        if (dist < speed * Time.deltaTime)
+        {
+            transform.position = destPos;
+            State = CreatureState.Idle;
+        }
+        else
+        {
+            transform.position += moveDir.normalized * speed * Time.deltaTime;
+            State = CreatureState.Walking;
+        }
+    }
+
+    protected virtual void UpdateAction()
+    {
+
+    }
+
+    protected virtual void UpdateDead()
+    {
+
+    }
+
+    protected virtual void SetSorting()
+    {
+        SpriteRenderer sp = gameObject.GetComponent<SpriteRenderer>();
+        sp.sortingLayerName = "Creature";
+        sp.sortingOrder = (int)transform.position.y * -1;
     }
 }
