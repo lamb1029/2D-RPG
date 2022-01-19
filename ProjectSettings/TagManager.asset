@@ -38,11 +38,11 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Default
-    uniqueID: 0
-    locked: 0
   - name: Base
     uniqueID: 1926994709
+    locked: 0
+  - name: Default
+    uniqueID: 0
     locked: 0
   - name: Obj
     uniqueID: 2152594701
