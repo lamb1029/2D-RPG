@@ -17,55 +17,54 @@ public class PlayerController : CreatureController
         base.Init();
     }
 
-    protected override void UpdateAnimation()
-    {
-        if (_state == CreatureState.Idle)
-        {
-            if (_dir == MoveDir.None)
-                anim.SetBool("Walking", false);
-            anim.SetBool("Attack", false);
-        }
-        else if (_state == CreatureState.Walking)
-        {
-            anim.SetBool("Walking", true);
-            switch (_dir)
-            {
+    //protected override void UpdateAnimation()
+    //{
+    //    if (_state == CreatureState.Idle)
+    //    {
+    //        anim.SetBool("Walking", false);
+    //        anim.SetBool("Attack", false);
+    //    }
+    //    else if (_state == CreatureState.Walking)
+    //    {
+    //        anim.SetBool("Walking", true);
+    //        switch (_dir)
+    //        {
 
-                case MoveDir.Up:
-                    anim.SetFloat("DirX", 0);
-                    anim.SetFloat("DirY", 1);
-                    _lastDir = MoveDir.Up;
-                    break;
-                case MoveDir.Down:
-                    anim.SetFloat("DirX", 0);
-                    anim.SetFloat("DirY", -1);
-                    _lastDir = MoveDir.Down;
-                    break;
-                case MoveDir.Left:
-                    anim.SetFloat("DirX", -1);
-                    anim.SetFloat("DirY", 0);
-                    _lastDir = MoveDir.Left;
-                    break;
-                case MoveDir.Right:
-                    anim.SetFloat("DirX", 1);
-                    anim.SetFloat("DirY", 0);
-                    _lastDir = MoveDir.Right;
-                    break;
-            }
-        }
-        else if (_state == CreatureState.Action)
-        {
-            anim.SetBool("Attack", true);
-        }
-        else if (_state == CreatureState.Dead)
-        {
+    //            case MoveDir.Up:
+    //                anim.SetFloat("DirX", 0);
+    //                anim.SetFloat("DirY", 1);
+    //                _lastDir = MoveDir.Up;
+    //                break;
+    //            case MoveDir.Down:
+    //                anim.SetFloat("DirX", 0);
+    //                anim.SetFloat("DirY", -1);
+    //                _lastDir = MoveDir.Down;
+    //                break;
+    //            case MoveDir.Left:
+    //                anim.SetFloat("DirX", -1);
+    //                anim.SetFloat("DirY", 0);
+    //                _lastDir = MoveDir.Left;
+    //                break;
+    //            case MoveDir.Right:
+    //                anim.SetFloat("DirX", 1);
+    //                anim.SetFloat("DirY", 0);
+    //                _lastDir = MoveDir.Right;
+    //                break;
+    //        }
+    //    }
+    //    else if (_state == CreatureState.Action)
+    //    {
+    //        anim.SetBool("Attack", true);
+    //    }
+    //    else if (_state == CreatureState.Dead)
+    //    {
 
-        }
-        else
-        {
+    //    }
+    //    else
+    //    {
 
-        }
-    }
+    //    }
+    //}
 
     protected override void UpdateController()
     {
@@ -73,14 +72,31 @@ public class PlayerController : CreatureController
         {
             case CreatureState.Idle:
                 GetDirInput();
-                GetIdleInput();
                 break;
             case CreatureState.Walking:
                 GetDirInput();
                 break;
         }
-        
+
         base.UpdateController();
+    }
+
+    protected override void UpdateIdle()
+    {
+        //이동할지 확인
+        if (Dir != MoveDir.None)
+        {
+            State = CreatureState.Walking;
+            return;
+        }
+
+        //공격할지 확인
+        if (Input.GetKey(KeyCode.Space))
+        {
+            State = CreatureState.Action;
+            //_coAction = StartCoroutine(CoStartAttack());
+            _coAction = StartCoroutine(CoStartShootArrow());
+        }
     }
 
     void GetDirInput() //키입력
@@ -107,23 +123,15 @@ public class PlayerController : CreatureController
         }
     }
 
-    void GetIdleInput()
-    {
-        if (Input.GetKey(KeyCode.Space))
-        {
-            State = CreatureState.Action;
-            //_coAction = StartCoroutine(CoStartAttack());
-            _coAction = StartCoroutine(CoStartShootArrow());
-        }
-    }
-
     IEnumerator CoStartAttack()
     {
         //피격
         GameObject go = Managers.Object.Find(GetFrontCellPos());
-        if(go != null)
+        if (go != null)
         {
-            Debug.Log(go.name);
+            CreatureController cc = go.GetComponent<CreatureController>();
+            if (cc != null)
+                cc.OnDamaged();
         }
 
         //대기시간

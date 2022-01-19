@@ -117,4 +117,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 5
   _state: 0
+  _lastDir: 0
   _dir: 0

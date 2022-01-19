@@ -11,7 +11,7 @@ public class CreatureController : MonoBehaviour
     protected Animator anim;
 
     [SerializeField] protected CreatureState _state = CreatureState.Idle;
-    public CreatureState State
+    public virtual CreatureState State
     {
         get { return _state; }
         set
@@ -67,8 +67,7 @@ public class CreatureController : MonoBehaviour
     {
         if (_state == CreatureState.Idle)
         {
-            if (_dir == MoveDir.None)
-                anim.SetBool("Walking", false);
+            anim.SetBool("Walking", false);
             anim.SetBool("Attack", false);
         }
         else if (_state == CreatureState.Walking)
@@ -81,7 +80,6 @@ public class CreatureController : MonoBehaviour
                     anim.SetFloat("DirX", 0);
                     anim.SetFloat("DirY", 1);
                     _lastDir = MoveDir.Up;
-                    //anim.Play("Fighter_Walking_Back");
                     break;
                 case MoveDir.Down:
                     anim.SetFloat("DirX", 0);
@@ -155,37 +153,10 @@ public class CreatureController : MonoBehaviour
 
     protected virtual void UpdateIdle()
     {
-        if (_dir != MoveDir.None)
-        {
-            Vector3Int destPos = CellPos;
-            switch (_dir)
-            {
-                case MoveDir.Up:
-                    destPos += Vector3Int.up;
-                    break;
-                case MoveDir.Down:
-                    destPos += Vector3Int.down;
-                    break;
-                case MoveDir.Left:
-                    destPos += Vector3Int.left;
-                    break;
-                case MoveDir.Right:
-                    destPos += Vector3Int.right;
-                    break;
-            }
 
-            State = CreatureState.Walking;
-            if (Managers.Map.CanGo(destPos))
-            {
-                if (Managers.Object.Find(destPos) == null)
-                {
-                    CellPos = destPos;
-                }
-            }
-        }
     }
 
-    protected virtual void UpdateWalking()
+    protected virtual void UpdateWalking() 
     {
         Vector3 destPos = Managers.Map.CurrentGrid.CellToWorld(CellPos) + new Vector3(0.5f, 0);
         Vector3 moveDir = destPos - transform.position;
@@ -195,7 +166,8 @@ public class CreatureController : MonoBehaviour
         if (dist < speed * Time.deltaTime)
         {
             transform.position = destPos;
-            State = CreatureState.Idle;
+            WalkToNextPos();
+            //State = CreatureState.Idle;
         }
         else
         {
@@ -204,12 +176,52 @@ public class CreatureController : MonoBehaviour
         }
     }
 
+    protected virtual void WalkToNextPos()
+    {
+        if (_dir == MoveDir.None)
+        {
+            State = CreatureState.Idle;
+            return;
+        }
+
+        Vector3Int destPos = CellPos;
+        switch (_dir)
+        {
+            case MoveDir.Up:
+                destPos += Vector3Int.up;
+                break;
+            case MoveDir.Down:
+                destPos += Vector3Int.down;
+                break;
+            case MoveDir.Left:
+                destPos += Vector3Int.left;
+                break;
+            case MoveDir.Right:
+                destPos += Vector3Int.right;
+                break;
+        }
+
+        if (Managers.Map.CanGo(destPos))
+        {
+            if (Managers.Object.Find(destPos) == null)
+            {
+                CellPos = destPos;
+            }
+        }
+
+    }
+
     protected virtual void UpdateAction()
     {
 
     }
 
     protected virtual void UpdateDead()
+    {
+
+    }
+
+    public virtual void OnDamaged()
     {
 
     }
