@@ -8,7 +8,9 @@ public class CreatureController : MonoBehaviour
     public float speed = 5.0f;
 
     public Vector3Int CellPos { get; set; } = Vector3Int.zero;
-    protected Animator anim;
+    protected Animator _animator;
+
+    [SerializeField] protected bool _range;
 
     [SerializeField] protected CreatureState _state = CreatureState.Idle;
     public virtual CreatureState State
@@ -35,9 +37,25 @@ public class CreatureController : MonoBehaviour
                 return;
 
             _dir = value;
+            if (value != MoveDir.None)
+                _lastDir = value;
 
             UpdateAnimation();
         }
+    }
+
+    public MoveDir GetDirFromVec(Vector3Int dir)
+    {
+        if (dir.x > 0)
+            return MoveDir.Right;
+        else if (dir.x < 0)
+            return MoveDir.Left;
+        else if (dir.y > 0)
+            return MoveDir.Up;
+        else if (dir.y < 0)
+            return MoveDir.Down;
+        else
+            return MoveDir.None;
     }
 
     public Vector3Int GetFrontCellPos()
@@ -67,44 +85,75 @@ public class CreatureController : MonoBehaviour
     {
         if (_state == CreatureState.Idle)
         {
-            anim.SetBool("Walking", false);
-            anim.SetBool("Attack", false);
+            switch (_lastDir)
+            {
+                case MoveDir.Up:
+                    _animator.Play("Fighter_Idle_Up");
+                    break;
+                case MoveDir.Down:
+                    _animator.Play("Fighter_Idle_Down");
+                    break;
+                case MoveDir.Left:
+                    _animator.Play("Fighter_Idle_Left");
+                    break;
+                case MoveDir.Right:
+                    _animator.Play("Fighter_Idle_Right");
+                    break;
+            }
         }
         else if (_state == CreatureState.Walking)
         {
-            anim.SetBool("Walking", true);
             switch (_dir)
             {
-
                 case MoveDir.Up:
-                    anim.SetFloat("DirX", 0);
-                    anim.SetFloat("DirY", 1);
-                    _lastDir = MoveDir.Up;
+                    _animator.Play("Fighter_Walking_Up");
                     break;
                 case MoveDir.Down:
-                    anim.SetFloat("DirX", 0);
-                    anim.SetFloat("DirY", -1);
-                    _lastDir = MoveDir.Down;
+                    _animator.Play("Fighter_Walking_Down");
                     break;
                 case MoveDir.Left:
-                    anim.SetFloat("DirX", -1);
-                    anim.SetFloat("DirY", 0);
-                    _lastDir = MoveDir.Left;
+                    _animator.Play("Fighter_Walking_Left");
                     break;
                 case MoveDir.Right:
-                    anim.SetFloat("DirX", 1);
-                    anim.SetFloat("DirY", 0);
-                    _lastDir = MoveDir.Right;
+                    _animator.Play("Fighter_Walking_Right");
                     break;
             }
         }
         else if (_state == CreatureState.Action)
         {
-            anim.SetBool("Attack", true);
+            switch (_lastDir)
+            {
+                case MoveDir.Up:
+                    _animator.Play(_range ? "Fighter_Range_Left" : "Fighter_Attack_Left");
+                    break;
+                case MoveDir.Down:
+                    _animator.Play(_range ? "Fighter_Range_Right" : "Fighter_Attack_Right");
+                    break;
+                case MoveDir.Left:
+                    _animator.Play(_range ? "Fighter_Range_Left" : "Fighter_Attack_Left");
+                    break;
+                case MoveDir.Right:
+                    _animator.Play(_range ? "Fighter_Range_Right" : "Fighter_Attack_Right");
+                    break;
+            }
         }
         else if (_state == CreatureState.Dead)
         {
-
+            switch (_lastDir)
+            {
+                case MoveDir.Up:
+                    _animator.Play("Fighter_Dead_Left");
+                    break;
+                case MoveDir.Down:
+                    _animator.Play("Fighter_Dead_Right");
+                    break;
+                case MoveDir.Left:
+                    _animator.Play("Fighter_Dead_Left");
+                    break;
+                case MoveDir.Right:
+                    _animator.Play("Fighter_Dead_Right");
+                    break;
+            }
         }
         else
         {
@@ -126,7 +175,7 @@ public class CreatureController : MonoBehaviour
 
     protected virtual void Init()
     {
-        anim = GetComponent<Animator>();
+        _animator = GetComponent<Animator>();
 
         Vector3 pos = Managers.Map.CurrentGrid.CellToWorld(CellPos) + new Vector3(0.5f, 0);
         transform.position = pos;

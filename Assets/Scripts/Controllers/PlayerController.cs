@@ -17,55 +17,6 @@ public class PlayerController : CreatureController
         base.Init();
     }
 
-    //protected override void UpdateAnimation()
-    //{
-    //    if (_state == CreatureState.Idle)
-    //    {
-    //        anim.SetBool("Walking", false);
-    //        anim.SetBool("Attack", false);
-    //    }
-    //    else if (_state == CreatureState.Walking)
-    //    {
-    //        anim.SetBool("Walking", true);
-    //        switch (_dir)
-    //        {
-
-    //            case MoveDir.Up:
-    //                anim.SetFloat("DirX", 0);
-    //                anim.SetFloat("DirY", 1);
-    //                _lastDir = MoveDir.Up;
-    //                break;
-    //            case MoveDir.Down:
-    //                anim.SetFloat("DirX", 0);
-    //                anim.SetFloat("DirY", -1);
-    //                _lastDir = MoveDir.Down;
-    //                break;
-    //            case MoveDir.Left:
-    //                anim.SetFloat("DirX", -1);
-    //                anim.SetFloat("DirY", 0);
-    //                _lastDir = MoveDir.Left;
-    //                break;
-    //            case MoveDir.Right:
-    //                anim.SetFloat("DirX", 1);
-    //                anim.SetFloat("DirY", 0);
-    //                _lastDir = MoveDir.Right;
-    //                break;
-    //        }
-    //    }
-    //    else if (_state == CreatureState.Action)
-    //    {
-    //        anim.SetBool("Attack", true);
-    //    }
-    //    else if (_state == CreatureState.Dead)
-    //    {
-
-    //    }
-    //    else
-    //    {
-
-    //    }
-    //}
-
     protected override void UpdateController()
     {
         switch (State)
@@ -95,7 +46,7 @@ public class PlayerController : CreatureController
         {
             State = CreatureState.Action;
             //_coAction = StartCoroutine(CoStartAttack());
-            _coAction = StartCoroutine(CoStartShootArrow());
+            _coAction = StartCoroutine("CoStartShootArrow");
         }
     }
 
@@ -148,7 +99,7 @@ public class PlayerController : CreatureController
         ac.CellPos = CellPos;
 
         //대기시간
-        yield return new WaitForSeconds(0.3f);
+        yield return new WaitForSeconds(0.5f);
         State = CreatureState.Idle;
         _coAction = null;
     }
@@ -158,5 +109,10 @@ public class PlayerController : CreatureController
         SpriteRenderer sp = gameObject.GetComponent<SpriteRenderer>();
         sp.sortingLayerName = "Creature";
         sp.sortingOrder = ((int)transform.position.y * -1) + 1;
+    }
+
+    public override void OnDamaged()
+    {
+        Debug.Log("player Hit!");
     }
 }
